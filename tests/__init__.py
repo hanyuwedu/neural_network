@@ -4,3 +4,4 @@ from. building_your_deep_neural_network_step_by_step_tests import *
 from .deep_neural_network_application_tests import *
 from .initialization_tests import *
 from .regularization_tests import *
+from .gradient_checking_tests import *
