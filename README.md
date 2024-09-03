@@ -15,5 +15,14 @@ https://www.coursera.org/learn/neural-networks-deep-learning/programming/GY8CB/b
 4. Deep Neural Network - Application
 https://www.coursera.org/learn/neural-networks-deep-learning/programming/Sfu8g/deep-neural-network-application
 
+5. Initialization
+https://www.coursera.org/learn/deep-neural-network/programming/QF47Q/initialization
+
+6. Regularization
+https://www.coursera.org/learn/deep-neural-network/programming/FjL8C/regularization 
+
+7. Gradient Checking
+https://www.coursera.org/learn/deep-neural-network/programming/RS2w3/gradient-checking
+
 - This repo is for studying and referrence. Please respect the work from the author and do not use it for any other purpose.
 - Code is working well on the coursera notebook but not on the ipynb due to lack of data and some packages.
