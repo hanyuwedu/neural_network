@@ -1,6 +1,5 @@
 import numpy as np
 import matplotlib.pyplot as plt
-import sklearn.datasets
 import scipy.io
 
 
@@ -84,7 +83,7 @@ def initialize_parameters(layer_dims):
 
 
 def load_2D_dataset():
-    data = scipy.io.loadmat('datasets/data.mat')
+    data = scipy.io.loadmat('../datasets/data.mat')
     train_X = data['X'].T
     train_Y = data['y'].T
     test_X = data['Xval'].T
