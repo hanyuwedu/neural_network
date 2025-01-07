@@ -1,4 +1,4 @@
-from .test_utils import *
+from utils.test_utils import *
 from copy import deepcopy
 
 def initialize_parameters_zeros_test(target):

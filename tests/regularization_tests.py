@@ -1,4 +1,4 @@
-from .test_utils import *
+from utils.test_utils import *
 
 
 def compute_cost_with_regularization_test_case():

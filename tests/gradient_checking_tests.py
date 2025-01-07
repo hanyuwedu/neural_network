@@ -1,4 +1,4 @@
-from .test_utils import *
+from utils.test_utils import *
 
 
 def forward_propagation_test(target):

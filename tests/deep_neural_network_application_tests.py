@@ -1,5 +1,5 @@
 import numpy as np
-from .test_utils import *
+from utils.test_utils import *
 
 
 def two_layer_model_test(target):

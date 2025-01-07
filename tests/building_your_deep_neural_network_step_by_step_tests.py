@@ -1,5 +1,5 @@
 import numpy as np
-from .test_utils import *
+from utils.test_utils import *
 
 
 def initialize_parameters_test_1(target):
